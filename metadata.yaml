@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '37752'
     url: http://www.gutenberg.org/2009/agents/37752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35564#Laos-Folk-Lore-of-Farther-India
 gutenberg_issued: '2011-03-12'
 gutenberg_type: Text
 identifiers:
