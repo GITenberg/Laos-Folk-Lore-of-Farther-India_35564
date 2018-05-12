@@ -1,0 +1,30 @@
+_repo: Laos-Folk-Lore-of-Farther-India_35564
+_version: 0.1.0
+contributor:
+  photographer:
+    agent_name: Briggs, W. A.
+    gutenberg_agent_id: '37753'
+    url: http://www.gutenberg.org/2009/agents/37753
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fleeson, Katherine Neville
+    gutenberg_agent_id: '37752'
+    url: http://www.gutenberg.org/2009/agents/37752
+description: ''
+gutenberg_issued: '2011-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35564'
+  lccn: '99004909'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- Laos'
+title: Laos Folk-Lore of Farther India
+url: http://www.gutenberg.org/ebooks/35564
